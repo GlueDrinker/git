@@ -1,2 +1,0 @@
-WriteLine("Hello world");
-WriteLine("Hello everyone!");
